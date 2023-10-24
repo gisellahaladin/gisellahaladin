@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **gsap, anime.js and typescript**
 
-- 📫 How to reach me **gisellahaladin@gmail.com**
+- 📫 How to reach me **gisellahaladin@gmx.de**
 
 - ⚡ Fun fact **My cat is always sitting on the back of my chair when I work.**
 
